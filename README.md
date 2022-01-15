@@ -1,6 +1,6 @@
 # Rose Culver website
 
-A simple website using plain JS to tweak the DOM content and styles
+A simple slideshow website created with plain html, css and javascript
 
 ### authors
 
